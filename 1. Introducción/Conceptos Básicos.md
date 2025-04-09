@@ -10,7 +10,7 @@
 
   Matemáticamente, se representa como un **proceso aleatorio**
 
-`{X(t), t ∈ T}`
+`{X(t), t ∈ T}` , esta es la colección de variables aleatorias que forman la señal, una para cada instante de tiempo t en el conjunto T
 
 
 
