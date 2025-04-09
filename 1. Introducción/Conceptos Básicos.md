@@ -6,5 +6,9 @@
 
   Estas variaciones no son caóticas sin sentido: obedecen **leyes estadísticas**. Por eso, aunque no podamos predecir exactamente su valor en un instante, sí podemos hablar de **probabilidades**
 
-  
+- ## ¿Cómo se representan?
+
+  Matemáticamente, se representa como un **proceso aleatorio**
+
+  $`{X(t), t \epsilon T}`$
 
