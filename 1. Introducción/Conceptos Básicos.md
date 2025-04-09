@@ -22,9 +22,9 @@
 
 - ## ¿Que es una realización?
 
-  Es una posible forma que toma la señal cuando se mide. Es decir, es una curva concreta, como la de verías en un osciloscopio o en una gráfica
+Es una posible forma que toma la señal cuando se mide. Es decir, es una curva concreta, como la de verías en un osciloscopio o en una gráfica
 
-  Cada vez que se repite el experimento físico (como medir el voltaje en un sensor), se obtiene una **nueva realización**
+Cada vez que se repite el experimento físico (como medir el voltaje en un sensor), se obtiene una **nueva realización**
 
 - ## ¿Que muestra el gráfico de una señal aleatoria?
 
@@ -34,19 +34,19 @@ Cuando graficas una realización:
 
 - El eje **Y** muestra los **valores que tomó esa realizaciónn**, que son **una muestra posible** de los muchos valores que la señal podría haber tomado
 
-  Es decir, vex **una entre muchas posibles versiones** de la señal
+Es decir, vex **una entre muchas posibles versiones** de la señal
 
-  - ## ¿Que relación tiene con las variables aleatorias?
+- ## ¿Que relación tiene con las variables aleatorias?
  
-  - A cada instante $t$, le corresponde una **variable aleatoria $X(t)$**
+- A cada instante $t$, le corresponde una **variable aleatoria $X(t)$**
  
-  - Esa variable aleatoria describe todos los **valores posibles** que la señal podría tomar en ese instante, junto con sus **probabilidades**
+- Esa variable aleatoria describe todos los **valores posibles** que la señal podría tomar en ese instante, junto con sus **probabilidades**
  
-  - ## ¿Y el tiempo?
+- ## ¿Y el tiempo?
  
-  - El proceso puede estar definido en **todo el tiempo** (incluso infinito)
+- El proceso puede estar definido en **todo el tiempo** (incluso infinito)
  
-  - Pero en la práctica, una relaización cubre un **intervalo finito de tiempo**, y se mide con una resolución finita (por ejemplo, una muestra cada milisegundo)
+- Pero en la práctica, una relaización cubre un **intervalo finito de tiempo**, y se mide con una resolución finita (por ejemplo, una muestra cada milisegundo)
  
-  - Por eso, en una realización **solo observamos un número finito de variables aleatorias**
+- Por eso, en una realización **solo observamos un número finito de variables aleatorias**
 
