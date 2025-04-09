@@ -10,7 +10,7 @@
 
   Matemáticamente, se representa como un **proceso aleatorio**
 
-$${X(t), t ∈ T}$$
+`{X(t), t ∈ T}`
 
 
 
