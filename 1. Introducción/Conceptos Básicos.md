@@ -1,10 +1,10 @@
-# Conceptos básicos sobre Teoría de Señales
+# Señal aleatoria: 
 
-## Señal aleatoria o estocástica: 
+- ## ¿Que es una señal aleatoria?
 
-Es aquella cuyo valor en un instante de tiempo no se puede predecir con exactitud. Se representa como un **conjunto de funciones** una por cada posible realización (medición) del experimento aleatorio (Proceso Físico que genera la señal)
+  Es una señal cuyo valor cambia de forma impredecible. No se puede describir con una sola fórmula porque, cada vez que se mide, puede dar una forma diferente.
 
-**Ejemplo de experimento aleatorio:** Grabar 5 segundos de sonido ambiente en la calle
+  Estas variaciones no son caóticas sin sentido: obedecen **leyes estadísticas**. Por eso, aunque no podamos predecir exactamente su valor en un instante, sí podemos hablar de **probabilidades**
 
-**Explicación:** Siempre que se realice el experimento aleatorio, dará una señal de sonido diferente
+  
 
