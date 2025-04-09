@@ -10,5 +10,5 @@
 
   Matemáticamente, se representa como un **proceso aleatorio**
 
-{$X(t), t \epsilon T$}
+${X(t), t \epsilon T}$
 
