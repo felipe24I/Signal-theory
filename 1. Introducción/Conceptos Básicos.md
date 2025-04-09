@@ -10,9 +10,7 @@
 
   Matemáticamente, se representa como un **proceso aleatorio**
 
-$$
-\{X(t),\ t \in T\}
-$$
+{X(t), t ∈ T}
 
 
 
