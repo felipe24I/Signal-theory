@@ -12,5 +12,13 @@
 
 `{X(t), t ∈ T}` esta es la colección de variables aleatorias que forman la señal, una para cada instante de tiempo t en el conjunto T
 
+**Donde=**
+
+- **t** es el tiempo (puede ser continuo o discreto)
+
+- **T** es el conjunto de todos los posibles valores del tiempo en los que está definido el proceso aleatorio
+
+- Cada X(t) es una **Variable aleatoria**, que representa el valor que podría tomar la señal em ese instante
+
 
 
